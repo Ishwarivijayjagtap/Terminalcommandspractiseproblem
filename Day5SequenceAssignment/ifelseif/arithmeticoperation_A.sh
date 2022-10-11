@@ -1,4 +1,5 @@
 
+
   read -p "enter three numbers" a b c
    p=$(( a + b * c ))
    q=$(( c + a / b ))

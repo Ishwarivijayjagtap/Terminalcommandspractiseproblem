@@ -1,4 +1,4 @@
-read -p "Enter a number from 1,10,100,1000,10000:" number
+ read -p "Enter a number from 1,10,100,1000,10000:" number
 case $number in
     1)
     echo "unit"
